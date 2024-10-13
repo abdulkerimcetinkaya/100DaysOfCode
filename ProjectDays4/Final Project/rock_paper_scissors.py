@@ -30,7 +30,7 @@ scissors = ("""
 ---.__(___)
 """)
 
-
+# Bilgisayarın seçim listesi
 choise_list = [rock, paper, scissors]
 computer_choise = random.choice(choise_list)
 
